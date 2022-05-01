@@ -1,0 +1,6 @@
+AF Endpoints Detection Performance: 1.9655
+ur_avg: 0.9211
+ue_avg: 1.0445
+[[145. 144.   0.   1.]
+ [ 95.   1.  93.   1.]
+ [ 45.   7.   3.  35.]]
